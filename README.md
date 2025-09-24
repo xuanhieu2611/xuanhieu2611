@@ -10,6 +10,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Hieu Le"
         self.role = "Software Engineer"
+        self.coding_language = ["TypeScript", "JavaScript", "Python", "Go", "C++", "Java", "SQL"]
+        self.technology = ["React", "React Native", "Next.js", "AWS", "Azure", "MongoDB", "Supabase", "Firebase"]
         self.language_spoken = ["en_US", "vi_VN"]
 
     def say_hi(self):
