@@ -24,6 +24,6 @@ me.say_hi()
 
 - ⚙️ I use daily: `.ts`, `.js`, `.py`
 - 💬 `ping` me about **building applications**, **website**, **software**, **AI**, **startups**
-- [hieule.co](https://hieule.co/)
+- [hieule.ca](https://hieule.ca/)
 - [@hieule2611](https://www.linkedin.com/in/hieule2611/) on LinkedIn
 - [@hieuspringle](https://twitter.com/hieuspringle) on Twitter
