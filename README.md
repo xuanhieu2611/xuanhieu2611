@@ -1,29 +1,14 @@
-### Hello there 👋
+# Hieu Le
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+CS at UBC, graduating April 2027. Vancouver.
+Looking for new-grad software engineering roles - full-stack, backend, or AI-focused.
 
+I like owning things end to end. I'm the sole engineer on [Spaces](https://hieule.ca/projects/spaces), a production booking and approvals platform at the UBC Faculty of Medicine: 400+ rooms province-wide, empty repository to production in six months.
 
-class SoftwareEngineer:
+Outside of work I ship mobile apps. [Hydro AI](https://apps.apple.com/ca/app/hydro-ai-water-tracker/id6785374266) is on the App Store - a photo-first hydration tracker using Claude Vision, with subscriptions and social streaks.
 
-    def __init__(self):
-        self.name = "Hieu Le"
-        self.role = "Software Engineer"
-        self.coding_language = ["TypeScript", "JavaScript", "Python", "Go", "C++", "Java", "SQL"]
-        self.technology = ["React", "React Native", "Next.js", "AWS", "Azure", "MongoDB", "Supabase", "Firebase"]
-        self.language_spoken = ["en_US", "vi_VN"]
+Previously a Software Developer Co-op at Teck, where I built an event-driven sync between two applicant tracking systems and cut cross-platform data discrepancies by 85%.
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+Day to day: TypeScript, Python, Next.js, React, AWS, Prisma, MySQL. Also React Native and Swift for the apps.
 
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
-- ⚙️ I use daily: `.ts`, `.js`, `.py`
-- 💬 `ping` me about **building applications**, **website**, **software**, **AI**, **startups**
-- [hieule.ca](https://hieule.ca/)
-- [@hieule2611](https://www.linkedin.com/in/hieule2611/) on LinkedIn
-- [@hieuspringle](https://twitter.com/hieuspringle) on Twitter
+[hieule.ca](https://hieule.ca/) · [LinkedIn](https://www.linkedin.com/in/hieule2611/) · [email](mailto:hieulexuan261103@gmail.com)
