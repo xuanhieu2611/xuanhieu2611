@@ -1,14 +1,11 @@
-# Hieu Le
+Hey - I'm Hieu, a software engineer in Vancouver.
 
-CS at UBC, graduating April 2027. Vancouver.
-Looking for new-grad software engineering roles - full-stack, backend, or AI-focused.
+CS at UBC, graduating April 2027. Looking for new-grad software engineering roles.
 
-I like owning things end to end. I'm the sole engineer on [Spaces](https://hieule.ca/projects/spaces), a production booking and approvals platform at the UBC Faculty of Medicine: 400+ rooms province-wide, empty repository to production in six months.
+I ship software end to end. I'm the sole engineer on [Spaces](https://hieule.ca/projects/spaces) at UBC Medicine, used by faculty, staff, and students across the province - empty repo to production in six months.
 
-Outside of work I ship mobile apps. [Hydro AI](https://apps.apple.com/ca/app/hydro-ai-water-tracker/id6785374266) is on the App Store - a photo-first hydration tracker using Claude Vision, with subscriptions and social streaks.
+These days I'm into AI and agent systems. I use them every day, and I build them too.
 
-Previously a Software Developer Co-op at Teck, where I built an event-driven sync between two applicant tracking systems and cut cross-platform data discrepancies by 85%.
-
-Day to day: TypeScript, Python, Next.js, React, AWS, Prisma, MySQL. Also React Native and Swift for the apps.
+A few projects are pinned below. [Hydro AI](https://apps.apple.com/ca/app/hydro-ai-water-tracker/id6785374266) is on the App Store. Rivet is the one I'm most in the middle of.
 
 [hieule.ca](https://hieule.ca/) · [LinkedIn](https://www.linkedin.com/in/hieule2611/) · [email](mailto:hieulexuan261103@gmail.com)
